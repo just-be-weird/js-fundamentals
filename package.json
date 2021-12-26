@@ -1,0 +1,12 @@
+{
+  "name": "js-fundamentals",
+  "version": "1.0.0",
+  "description": "JS hands-on project from basics to advancedJS",
+  "main": "index.js",
+  "repository": "https://github.com/just-be-weird/js-fundamentals.git",
+  "author": "just-be-weird <abhi.chandresh@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
